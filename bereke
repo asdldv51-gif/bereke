@@ -1,0 +1,18 @@
+{
+  "PlayerData": [
+    {
+      "ID": 3001,
+      "Forename": "Bereke",
+      "Surname": "Seydildayev",
+      "ImageURL": "https://via.placeholder.com/150"
+    }
+  ],
+  "ClubData": [
+    {
+      "ID": 3,
+      "Name": "Atletico Madrid",
+      "ShortName": "ATM",
+      "ImageURL": "https://via.placeholder.com/100"
+    }
+  ]
+}
